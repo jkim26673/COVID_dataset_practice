@@ -5,13 +5,10 @@
 #MacOS files 
 .DS_Store
 
-#Ignore all files:
-data/raw/*
-data/processed/*
-notebooks/*
+
 
 #Keep
-!data/README.md
+#!data/README.md
 
 # Session Data files
 .RData
